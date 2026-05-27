@@ -10,7 +10,7 @@ This project was built for **ENG 210 – Computer Architecture** at Canadian Uni
 
 The system uses a **photoresistor (LDR)** to detect day/night conditions and an **ultrasonic sensor** for motion detection. An **Arduino Uno** processes the sensor inputs and controls three LEDs and an LCD display accordingly. The circuit is designed to run on solar power with a 9V battery backup.
 
-🔗 **Tinkercad Simulation:** [View Circuit on Tinkercad](https://www.tinkercad.com/things/54fViBD3Xyl-copy-of-engineering-final-/editel)
+🔗 **Tinkercad Simulation:** [View Circuit on Tinkercad](https://www.tinkercad.com/things/avTe3uMUeij-engineering-final-?sharecode=yA6KTyze2ZxZNz-D6xlSwPZFl0lBPXZwDzupCPGemO8)
 
 ---
 
